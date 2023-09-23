@@ -1,0 +1,8 @@
+#Internee.pk
+
+first task -> Restful API
+
+-> GET
+-> POST
+-> PUT
+-> DELETE
